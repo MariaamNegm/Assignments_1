@@ -1,2 +1,1 @@
-# Assignments_1
- Calculator/SquareOperations/Grades
+A simple command-line application.
